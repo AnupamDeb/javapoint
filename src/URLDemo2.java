@@ -13,6 +13,6 @@ public class URLDemo2
 		System.out.println("Server : "+url.getHost());
 		System.out.println("File Name: "+url.getFile()); 
 		
-		
+		sdfsdfdsf
 	}
 }

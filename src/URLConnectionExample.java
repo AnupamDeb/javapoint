@@ -7,7 +7,7 @@ import java.net.URLConnection;
 public class URLConnectionExample
 {
 	public static void main(String[] args) throws IOException {
-		
+		sdfdsf
 		URL url=new URL("http://www.javatpoint.com/java-tutorial"); 
 		URLConnection urlC=url.openConnection();
 		
